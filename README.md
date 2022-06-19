@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @farkadAdnan
+```
+👋 Hi, I’m farkadAdnan
+```
+```
 - I am interested in innovations, inventions, and algorithm development
 Author of the #arduinoWorld Book
 Holds an international patent
@@ -12,12 +15,16 @@ writer and artist
 مُخترع وباحث علمي
 Robot🤖-AI-3D👾
 كاتب وفنان
+```
 
 - 📫farkad.hpfa95@gmail.com
+```
 Farkad Adnan
 #farkadadnan
 #farkad_adnan
 #فرقد_عدنان
+```
+
 * facebook : https://www.facebook.com/profile.php?id=100002145048612
 * instagram:  https://www.instagram.com/farkadadnan/
 * linkedin : https://www.linkedin.com/in/farkad-adnan-499972121/
