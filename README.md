@@ -1,7 +1,5 @@
 
------------------------------------------- ![Developer](https://user-images.githubusercontent.com/35774039/183126602-e4b57439-4d5e-4d2f-af1d-80846bc5bb3b.gif) ------------------------------------------
-
-
+![image](https://user-images.githubusercontent.com/35774039/183366231-3246e985-3f53-43be-9be8-08851f0f493a.png)
 
 ```
 👋 Hi, I’m farkadAdnan
