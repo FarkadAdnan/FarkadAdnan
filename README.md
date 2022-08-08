@@ -2,7 +2,7 @@
 
  
 ```
-👋 Hi, I’m farkadAdnan
+👋 Hi, I’m farkadAdnan -فـرقـد عـدنان
 ```
 
  
