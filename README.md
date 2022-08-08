@@ -7,7 +7,8 @@
 👋 Hi, I’m farkadAdnan
 ```
 
-![image](https://user-images.githubusercontent.com/35774039/183365237-f31d4406-839e-4547-9d90-4deba9ff4614.png)
+ 
+![image](https://user-images.githubusercontent.com/35774039/183365705-3cf2cbdd-6d81-4ce3-969e-5621c8365b09.png)
 
 
 - 📫farkad.hpfa95@gmail.com
