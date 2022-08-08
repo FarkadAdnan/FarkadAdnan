@@ -6,21 +6,9 @@
 ```
 👋 Hi, I’m farkadAdnan
 ```
-```
-- I am interested in innovations, inventions, and algorithm development
-Author of the #arduinoWorld Book
-Holds an international patent
-🥇Patent holder from China
-Inventor and scientific researcher
-Robot🤖-AI-3D👾
-writer and artist
-مؤلف #كتاب_عالم_الاردوينو
-🥇حائز على براءة اختراع دولية
-🥇حائز على براءة اختراع من الصين
-مُخترع وباحث علمي
-Robot🤖-AI-3D👾
-كاتب وفنان
-```
+
+![image](https://user-images.githubusercontent.com/35774039/183365237-f31d4406-839e-4547-9d90-4deba9ff4614.png)
+
 
 - 📫farkad.hpfa95@gmail.com
 ```
