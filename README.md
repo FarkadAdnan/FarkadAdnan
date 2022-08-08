@@ -21,6 +21,7 @@ Farkad Adnan
 #فرقد_عدنان
 ```
 # Contact me
+* https://linktr.ee/farkadadnan
 * facebook : https://www.facebook.com/profile.php?id=100002145048612
 * instagram:  https://www.instagram.com/farkadadnan/
 * linkedin : https://www.linkedin.com/in/farkad-adnan-499972121/
